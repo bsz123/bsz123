@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bsz123
+- 👋 Hi, I’m @bsz123 (Ben Zuke)
 - 👀 I’m interested in maps generation tools (Specifically programs that can pull data from satallite maps)
 - 🌱 I'm currently learning rust, primarily using it as a backend for my side project "Good Day for Disc Golf"
 
